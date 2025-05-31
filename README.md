@@ -45,11 +45,8 @@ Before running this application, make sure you have:
    pip install -r requirements.txt
    ```
 
-4. **Set up environment variables**
-   ```bash
-   # Create a .env file in the root directory
-   echo "GEMINI_API_KEY=your_gemini_api_key_here" > .env
-   ```
+4. **replace st.secrets["google_api_key"] with your api Google Api Key**
+
 
 ## 🌐 Live Demo
 
