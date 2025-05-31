@@ -8,7 +8,7 @@ import os
 import io
 import pandas as pd
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAiJlqBtWc1GGQqCtRG9xdJ3ktnGhSaV-4"
+os.environ["GOOGLE_API_KEY"] = st.secrets["google_api_key"]
 
 
 llm = ChatGoogleGenerativeAI(
