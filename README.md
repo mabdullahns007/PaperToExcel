@@ -50,9 +50,8 @@ Before running this application, make sure you have:
 
 ## 🌐 Live Demo
 
-Try the tool online without any setup: **[Paper to Excel Demo](your-demo-link-here)**
+![image](https://github.com/user-attachments/assets/4893a5dc-ff35-45e4-a8b0-3cab88a8a181)
 
-*Simply upload your handwritten ledger image and get the CSV output instantly!*
 
 
 ## 🎯 How It Works
